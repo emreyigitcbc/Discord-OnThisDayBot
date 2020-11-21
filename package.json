@@ -1,0 +1,15 @@
+{
+  "name": "onthisdaybot",
+  "version": "1.0.0",
+  "description": "It returns the events on this day from Wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Cebeci",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "wikijs": "^6.0.1"
+  }
+}

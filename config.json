@@ -1,0 +1,25 @@
+{
+    "token":"YOUR_TOKEN_GOES_HERE",
+    "command": ".otd",
+	"admin_role_id": "ADMIN_ROLE_ID_GOES_HERE",
+	"one_channel": false,
+    "channel_id": "SPECIFIC_CHANNEL_ID_GOES_HERE",
+	"wikipedia_api_url": "https://en.wikipedia.org/w/api.php",
+	"lang": {
+		"on_this_day": "On this day",
+		"no_perm": "You don't have permission to use this.",
+		"wait": "Hold my beer... I will get it now!",
+		"month1": "January",
+		"month2": "Fabruary",
+		"month3": "March",
+		"month4": "April",
+		"month5": "May",
+		"month6": "June",
+		"month7": "July",
+		"month8": "August",
+		"month9": "September",
+		"month10": "October",
+		"month11": "November",
+		"month12": "December"
+	}
+}
