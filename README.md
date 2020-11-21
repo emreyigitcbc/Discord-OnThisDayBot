@@ -1,5 +1,6 @@
-![version](https://badgen.net/badge/version/1.0/green)
-![discord.js](https://badgen.net/badge/discord.js/v12/yellow)
+[![version](https://badgen.net/badge/version/1.0/green)](https://badgen.net/badge/discord.js/v12/yellow)
+[![discord.js](https://badgen.net/badge/discord.js/v12/yellow)](https://badgen.net/badge/discord.js/v12/yellow)
+[![License](https://poser.pugx.org/ali-irawan/xtra/license.svg)](https://poser.pugx.org/ali-irawan/xtra/license.svg)
 # Discord "On This Day" Bot
 
 Discord OTD bot is for fetching the events, births and deaths on that day from wikipedia.
